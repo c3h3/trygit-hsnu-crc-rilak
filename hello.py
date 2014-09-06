@@ -1,6 +1,5 @@
 print "hello"
-<<<<<<< HEAD
-print "XD 123"
-=======
-print "XD 456"
->>>>>>> b2
+
+print "XD this is 978"
+
+print "lalala~"
